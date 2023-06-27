@@ -13,3 +13,13 @@
 **Telegram:** @KrollikRoddzer
 
 **[LinkedIn](https://www.linkedin.com/in/krollikroddzer/)**
+
+---
+
+## **Personal profile**
+
+Since the 10th grade in high school, I became interested in programming. My journey began with the Olympiads on sports programming and in this regard, I entered the Belarusian State University in the Faculty of Applied Mathematics and Computer Science. 
+
+Now I am fond of programming in c# language and .NET platform. At the moment I'm writing File Cabinet App - it's a console application, similar to the database, only there is a fixed amount of data to enter. It also uses different programming patterns. 
+
+As for my extracurricular activities I am fond of cycling, playing guitar and photography.
