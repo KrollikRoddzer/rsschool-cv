@@ -58,3 +58,18 @@ public class Solution {
     }
 }
 ```
+
+---
+
+## **Education**
+
+### **Mogilev Regional State Lyceum Mogilev, Belarus.**
+
+* General secondary education 2019 – 2021
+
+### **Belarussian State University Minsk, Belarus**
+* Bachelor’s degree, Computer Science 2021 – Now
+
+### **ULean**
+* C# programming basics. Part 1
+* C# programming basics. Part 2
