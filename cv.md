@@ -34,3 +34,25 @@ As for my extracurricular activities I am fond of cycling, playing guitar and ph
 * Algorithms and Data Structures
 * Design patterns
 * Git, GitHub, GitLab
+
+## **Code example**
+
+This code in C# represents solution to task 'Two sum' from LeetCode. This [link](https://leetcode.com/problems/two-sum/) delivers you to the task.
+```
+public class Solution {
+    public int[] TwoSum(int[] nums, int target) {
+        for (int i = 0; i < nums.Length; ++i)
+        {
+            for (int j = i + 1; j < nums.Length; ++j)
+            {
+                if (nums[i] + nums[j] == target)
+                {
+                    return new int[] { i, j };
+                }
+            }
+        }
+
+        return new int[] {};
+    }
+}
+```
