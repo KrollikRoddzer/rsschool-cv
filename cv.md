@@ -73,3 +73,13 @@ public class Solution {
 ### **ULean**
 * C# programming basics. Part 1
 * C# programming basics. Part 2
+
+---
+
+## **Languages**
+
+* English - Intermediate\Upper-Intermediate (according to the online test at [efset](www.efset.org))
+
+![English level](/imgs/english.png "English level")
+
+* Russian - Native
