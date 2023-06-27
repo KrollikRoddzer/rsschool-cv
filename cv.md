@@ -23,3 +23,14 @@ Since the 10th grade in high school, I became interested in programming. My jour
 Now I am fond of programming in c# language and .NET platform. At the moment I'm writing File Cabinet App - it's a console application, similar to the database, only there is a fixed amount of data to enter. It also uses different programming patterns. 
 
 As for my extracurricular activities I am fond of cycling, playing guitar and photography.
+
+## **Skills and Proficiency**
+
+* C#, .NET, ADO.NET, NUnit
+* SQL, T-SQL, MS SQL Server
+* C++, Qt
+* Java, Java EE, Swing
+* HTML5, CSS3
+* Algorithms and Data Structures
+* Design patterns
+* Git, GitHub, GitLab
