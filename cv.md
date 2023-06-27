@@ -1,4 +1,4 @@
-## <p style="text-align: center;">[rsschool-cv]() </p>
+# [rsschool-cv]()
 
 # **Stanislau Zaitsau**
 ## Trainee\Junior Fullstack developer
