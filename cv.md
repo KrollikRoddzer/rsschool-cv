@@ -24,6 +24,7 @@ Now I am fond of programming in c# language and .NET platform. At the moment I'm
 
 As for my extracurricular activities I am fond of cycling, playing guitar and photography.
 
+---
 ## **Skills and Proficiency**
 
 * C#, .NET, ADO.NET, NUnit
@@ -35,6 +36,7 @@ As for my extracurricular activities I am fond of cycling, playing guitar and ph
 * Design patterns
 * Git, GitHub, GitLab
 
+---
 ## **Code example**
 
 This code in C# represents solution to task 'Two sum' from LeetCode. This [link](https://leetcode.com/problems/two-sum/) delivers you to the task.
