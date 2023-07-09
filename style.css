@@ -1,0 +1,63 @@
+.div_container{
+    display: inline-block;
+}
+
+body
+{
+    font-family: Poppins;
+}
+
+.leftColumn{
+    width: 350px;
+    min-width: 350px;
+    background-color: #A86BBA;
+}
+
+.rightColumn
+{
+    width: 720px;
+    width: 720px;
+    background-color: #04668C;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.mainBody
+{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    color: white
+}
+
+ul 
+{
+    list-style-type: none;
+}
+li
+{
+    margin-top: 10px;
+}
+
+.leftText
+{
+    margin-left: 30px;
+    margin-right: 20px;
+}
+
+.education li
+{
+    margin-top: 20px;
+}
+
+.nameSection
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.text 
+{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
