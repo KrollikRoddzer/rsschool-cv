@@ -1,0 +1,154 @@
+.div_container{
+    display: inline;
+}
+
+.page-body
+{
+    max-width: 1400;
+    margin: 0;
+}
+
+body
+{
+    font-family: Poppins;
+    display: block;
+}
+
+.leftColumn{
+    width: 100%;
+    background-color: #A86BBA;
+    display: block;
+}
+
+.rightColumn
+{
+    width: 100%;
+    background-color: #04668C;
+    display: block;
+}
+
+main
+{
+    width: 1400px;
+}
+
+.mainBody
+{
+    width: 1400px;
+    display: grid;
+    grid-template-columns: 3fr 7fr;
+    color: white
+}
+
+ul 
+{
+    list-style-type: none;
+}
+li
+{
+    margin-top: 10px;
+}
+
+.leftText
+{
+    margin-left: 30px;
+    margin-right: 20px;
+}
+
+
+
+.education li
+{
+    margin-top: 20px;
+}
+
+.nameSection
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 20px;
+}
+
+.personalProfileSection
+{
+    padding-left: 30px;
+    padding-right: 20px;
+}
+
+.skillsSection
+{
+    padding-left: 30px;
+    padding-right: 20px;
+}
+
+.profileText
+{
+    padding-left: 40px;
+    padding-right: 20px;
+}
+
+.languagesSection
+{
+    padding-left: 30px;
+    padding-right: 20px;
+}
+
+.text 
+{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.navbar-list li{
+    display: flex;
+    padding: 0;
+    float: left;
+    list-style-type: none;
+}
+
+.navbar-list ul
+{
+    background-color: #A86BBA;
+}
+
+.navbar-list
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.navbar
+{
+    display: block;
+}
+
+header
+{
+    display: block;
+    width: 1400px;
+    background-color: #1e232c;
+    height: 50px;
+}
+
+a
+{
+    color:white;
+}
+
+a:hover
+{
+    color: black;
+    text-decoration: none;
+    background-color: #A86BBA;
+}
+
+
+.footer {
+    max-width: 1400px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: space-between;
+    color: white;
+    background-color: #1e232c;
+}
